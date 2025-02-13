@@ -6,11 +6,14 @@
 		const interval = setInterval(() => {
             let dt = new Date()
             let hours = dt.getHours()
+            let mins = dt.getMinutes().toString()
+            if (mins.length < 2)
+                mins = "0" + mins
             let meridiem = "am"
             if (hours > 12)
                 hours -= 12
                 meridiem = "pm"
-			time = (hours.toString() + ":" + dt.getMinutes().toString() + ":" + dt.getSeconds().toString() + meridiem);
+			time = (hours.toString() + ":" + mins + ":" + dt.getSeconds().toString() + meridiem);
 		}, 1000);
 
 		return () => {
