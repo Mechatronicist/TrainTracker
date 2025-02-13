@@ -1,6 +1,27 @@
 <script>
-    $: time = "time"
-    $: weather = "weather"
+	import { onMount } from 'svelte';
+
+	let time = $state(new String);
+	onMount(() => {
+		const interval = setInterval(() => {
+            let dt = new Date()
+            let hours = dt.getHours()
+            let mins = dt.getMinutes().toString()
+            if (mins.length < 2)
+                mins = "0" + mins
+            let meridiem = "am"
+            if (hours > 12)
+                hours -= 12
+                meridiem = "pm"
+			time = (hours.toString() + ":" + mins + ":" + dt.getSeconds().toString() + meridiem);
+		}, 1000);
+
+		return () => {
+			clearInterval(interval);
+		};
+	});
+
+    let weather = "weather"
 </script>
 
 <style>
