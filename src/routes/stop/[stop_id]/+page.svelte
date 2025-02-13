@@ -4,4 +4,4 @@
     export let data;
 </script>
 
-<TimeTable departures={data.departures} ></TimeTable>
+<TimeTable stopId={data.stopId} ></TimeTable>
