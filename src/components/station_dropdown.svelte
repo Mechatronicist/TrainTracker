@@ -1,6 +1,6 @@
 <script lang=ts>
 import Select from 'svelte-select';
-import type { Stop } from "$lib/timetable.ts";
+import type { Stop } from "$lib/stop_api.ts";
 import { page } from "$app/state";
 
 let selected = $state<Stop>()

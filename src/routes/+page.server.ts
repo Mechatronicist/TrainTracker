@@ -1,5 +1,5 @@
 import { getWeatherAsync } from "$lib/weather_api.js";
-import { getStopsAsync } from "$lib/timetable.js";
+import { getStopsAsync } from "$lib/stop_api.js";
 import type { PageServerLoad } from "./$types";
 
 export const load: PageServerLoad = async ({ }) => {
