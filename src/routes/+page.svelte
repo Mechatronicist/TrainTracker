@@ -3,4 +3,4 @@
 	export let data;
 </script>
 
-<Dropdown items={data.Stops}/>
+<Dropdown items={data.Stops} stopName={undefined}/>
