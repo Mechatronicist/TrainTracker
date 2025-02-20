@@ -11,9 +11,8 @@ const itemId = 'stop_id';
 const label = 'stop_name';
 
 function handleSubmit() {
-    console.log(selected)
     if (selected)
-        window.location.href = page.url + "stop/" + selected.stop_id
+        window.location.href = page.url.origin + "/stop/" + selected.stop_id
     
 }
 </script>
