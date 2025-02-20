@@ -6,14 +6,18 @@ export interface Current {
     precip_mm: number;
     cloud: number;
 }
-export interface Weather {
+interface Weather {
     location: JSON;
     current: Current;
 }
 
 
-export async function getWeatherAsync(): Promise<null | Current> {
-    let result = await fetch(`${PRIVATE_WEATHER_API_URL}?key=${PRIVATE_WEATHER_API_KEY}&q=Melbourne`);
+export async function getWeatherAsync(lat?: number, lon?: number): Promise<null | Current> {
+    let result
+    if (lat && lon)
+        result = await fetch(`${PRIVATE_WEATHER_API_URL}?key=${PRIVATE_WEATHER_API_KEY}&q=${lat},${lon}`);
+    else
+        result = await fetch(`${PRIVATE_WEATHER_API_URL}?key=${PRIVATE_WEATHER_API_KEY}&q=Melbourne`);
     if(!result.ok) {
         return null;
     }

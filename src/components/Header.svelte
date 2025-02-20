@@ -1,5 +1,8 @@
 <script lang=ts>
+    import Dropdown from "../components/station_dropdown.svelte"
     import type { Current } from "$lib/weather_api";
+    import type { Stop } from "$lib/timetable.ts";
+    let { weather, stops }: { weather: Current | null , stops: Stop[] | null} = $props();
 
     function weathermatrix(w: Current | null): String {
         if (!w) return "";
@@ -13,7 +16,7 @@
         return `${t} °c ${emoji}`
     }
 
-    let { weather }: { weather: Current | null } = $props();
+    
     let weather_condition = $state(new String)
     weather_condition = weathermatrix(weather)
     
@@ -38,6 +41,8 @@
 			clearInterval(interval);
 		};
 	});
+
+    //----------------------------------------------
 </script>
 
 <style>
@@ -62,7 +67,7 @@
 </style>
 
 <div class="header">
-    <span>{time}</span>
-    <span>Station Dropdown</span>
-    <span>{weather_condition}</span>
+    {time}
+    <Dropdown items={stops}/>
+    {weather_condition}
 </div>
