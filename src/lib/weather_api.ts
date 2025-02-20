@@ -23,5 +23,6 @@ export async function getWeatherAsync(lat?: number, lon?: number): Promise<null 
     }
 
     let weather = (await result.json() as Weather);
+    console.log(weather.location)
     return weather.current;
 }
