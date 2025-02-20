@@ -50,12 +50,19 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
+
         padding: 15px 20px;
-        color: #000000;
+
+        color: #575757;
+        background: rgb(249 249 249);
+
         font-weight: bold;
         font-size: 1.5em;
-        background: rgba(0, 0, 0, 0.5);
+
+        border: 1px solid #e1e1e1;
         border-radius: 10px;
+
+        box-shadow: #a9a9a9 1px 1px 3px;
     }
 </style>
 

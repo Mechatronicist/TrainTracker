@@ -1,7 +1,20 @@
 <script lang="ts">
+    import Header from '../../../components/Header.svelte';
     import TimeTable from '../../../components/TimeTable.svelte';
 
     export let data;
 </script>
 
-<TimeTable stopId={data.stopId} ></TimeTable>
+<div class="container">
+    <Header weather={data.weather}></Header>
+    <TimeTable stopId={data.stopId} ></TimeTable>
+</div>
+
+<style>
+    .container {
+        display: flex;
+        flex-direction: column;
+
+        gap: 0.5rem;
+    }
+</style>
