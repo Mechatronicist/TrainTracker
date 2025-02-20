@@ -1,7 +1,7 @@
 <script lang=ts>
     import Dropdown from "../components/station_dropdown.svelte"
     import type { Current } from "$lib/weather_api";
-    import type { Stop } from "$lib/timetable.ts";
+    import type { Stop } from "$lib/stop_api.ts";
     let { weather, stops }: { weather: Current | null , stops: Stop[] | null} = $props();
 
     function weathermatrix(w: Current | null): String {
