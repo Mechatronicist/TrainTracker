@@ -6,7 +6,7 @@
 </script>
 
 <div class="container">
-    <Header weather={data.weather} stops={data.stops}></Header>
+    <Header weather={data.weather} stops={data.stops} stopName={data.stopName}></Header>
     <TimeTable stopId={data.stopId} ></TimeTable>
 </div>
 

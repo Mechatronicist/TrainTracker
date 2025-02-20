@@ -2,7 +2,7 @@
     import Dropdown from "../components/station_dropdown.svelte"
     import type { Current } from "$lib/weather_api";
     import type { Stop } from "$lib/stop_api.ts";
-    let { weather, stops }: { weather: Current | null , stops: Stop[] | null} = $props();
+    let { weather, stops, stopName }: { weather: Current | null , stops: Stop[] | null, stopName: string | undefined} = $props();
 
     function weathermatrix(w: Current | null): String {
         if (!w) return "";
@@ -68,6 +68,6 @@
 
 <div class="header">
     {time}
-    <Dropdown items={stops}/>
+    <Dropdown items={stops} stopName={stopName}/>
     {weather_condition}
 </div>

@@ -5,7 +5,7 @@ import { page } from "$app/state";
 
 let selected = $state<Stop>()
     
-let { items }: { items: Stop[] | null } = $props();
+let { items, stopName }: { items: Stop[] | null , stopName: string | undefined } = $props();
 
 const itemId = 'stop_id';
 const label = 'stop_name';
@@ -31,7 +31,7 @@ function handleSubmit() {
 
 <div class="dropdown">
     <form onsubmit={handleSubmit}>
-        <Select id="stops" {itemId} {label} {items} bind:value={selected}></Select>
+        <Select id="stops" {itemId} {label} {items} bind:value={selected} placeholder={stopName}></Select>
         <input type="submit" class=""/>
     </form>
 </div>

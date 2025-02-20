@@ -7,7 +7,7 @@
     <div class="dropdown-container">
         <h1>Train Tracker</h1>
         <div>Select a station to view time table</div>
-        <Dropdown items={data.Stops}/>
+        <Dropdown items={data.Stops} stopName={undefined}/>
     </div>
 </div>
 
