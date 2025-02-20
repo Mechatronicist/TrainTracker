@@ -25,16 +25,6 @@
         isLoading = false;
     });
 
-    function getDeparture(platformNumber: string, index: number): (Departure | null) {
-        if(!departures) {
-            return null;
-        }
-
-        let departure = departures[platformNumber][index];
-
-        return departure;
-    }
-
     function getDirectionName(route_id: number, direction_id: number): string {
         let route = allroutes.find(r => r.direction_id == direction_id && r.route_id == route_id);
         return route ? route.direction_name : "Unknown";
@@ -43,7 +33,7 @@
 
 
 {#if isLoading}
-<div>Loading data..</div>
+<div class="loading">Loading station departures..</div>
 {:else}
 {#if hasError}
     <div>{error}</div>
@@ -84,13 +74,14 @@
 
 <style>
     table {
-        border: 1px solid black;
-
         border-collapse: collapse;
+
+        background: rgb(249 249 249);
+        box-shadow: #a9a9a9 1px 1px 3px;
     }
 
     table thead tr {
-        border: 1px solid black;
+        border: 1px solid #e1e1e1;
         text-align: left;
     }
 
@@ -99,8 +90,14 @@
     }
 
     table tbody tr td {
-        padding: 0.5rem;
-        border: 1px solid black;
+        padding: 1rem;
+        border: 1px solid #e1e1e1;
+    }
+
+    .loading {
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 </style>
 {/if}

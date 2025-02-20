@@ -1,240 +1,240 @@
 [
-    {
-      "direction_id": 0,
-      "route_direction_description": "Trains depart Camberwell Station and will operate via Riversdale Station, Willison Station, Hartwell Station, Burwood Station, Ashburton Station and Alamein Station. Connections from the city are available at Camberwell. \r\n\r\nWeekday peak trips operate from Flinders Street Station and run via Richmond Station, East Richmond Station, Burnley Station, Hawthorn Station, Glenferrie Station and Auburn Station to Camberwell Station and on to Alamein, stopping all stations.",
-      "direction_name": "Alamein",
-      "route_id": 1,
-      "route_type": 0
-    },
-    {
-      "direction_id": 1,
-      "route_direction_description": "Trains will operate via Alamein Station, Ashburton Station, Burwood Station, Hartwell Station, Willison Station, and Riversdale Station to Camberwell Station.  \r\n\r\nWeekday peak trips continue via Auburn Station, Glenferrie Station, Hawthorn Station, Burnley Station, East Richmond Station, Richmond Station to Flinders Street Station via the City Loop.  At other times connections to the city are available from Camberwell.",
-      "direction_name": "City (Flinders Street)",
-      "route_id": 1,
-      "route_type": 0
-    },
-    {
-      "direction_id": 3,
-      "route_direction_description": "Trains will depart City and operate via Richmond Station, East Richmond Station, Burnley Station, Hawthorn Station, Glenferrie Station, Auburn Station, Camberwell Station, East Camberwell Station, Canterbury Station, Chatham Station, Union Station, Box Hill Station, Laburnum Station, Blackburn Station, Nunawading Station, Mitcham Station, Heatherdale Station, Ringwood Station, Heathmont Station, Bayswater Station, Boronia Station, Ferntree Gully Station, Upper Ferntree Gully Station, Upway Station, Tecoma Station and Belgrave Station. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day.  Weekday morning services depart from Flinders Street Station and operate direct to Richmond. Most weekday afternoon, evening and weekend services depart from Flinders Street and operate via the City Loop. \r\n\r\nSTOPPING PATTERNS. Most services do not stop at East Richmond. Weekday express services stop at selected stations between Burnley and Ringwood.  During these times short services operate from Flinders Street to Blackburn, stopping all stations.",
-      "direction_name": "Belgrave",
-      "route_id": 2,
-      "route_type": 0
-    },
-    {
-      "direction_id": 1,
-      "route_direction_description": "Trains will depart Belgrave Station, Tecoma Station, Upwey Station, Upper Ferntree Gully Station, Ferntree Gully Station, Boronia Station, Bayswater Station, Heathmont Station, Ringwood Station, Heatherdale Station, Mitcham Station, Nunawading Station, Blackburn Station, Laburnum Station, Box Hill Station, Union Station, Chatham Station, Canterbury Station, East Camberwell Station, Camberwell Station, Auburn Station, Glenferrie Station, Hawthorn Station, Burnley Station, East Richmond Station, Richmond Station, City. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day. Weekday morning services operate to Flinders Street via City Loop.  Weekday afternoon, evening and weekend services operate to Flinders Street and then City Loop.  \r\n\r\nSTOPPING PATTERNS. Most services do not stop at East Richmond. Weekday express services stop at selected stations between Ringwood and Burnley.  During these times short services from Blackburn stop all stations to City.  \r\n\r\nNote: the above is a general guide and some service variations exist. Please consult timetables for detailed information on stopping patterns.\r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN RINGWOOD AND CITY APPROXIMATELY EVERY 15 MINUTES MONDAY TO FRIDAY AND 10 MINUTES ON WEEKENDS.  EVENING SERVICE OPERATES EVERY 15 TO 30 MINUTES.",
-      "direction_name": "City (Flinders Street)",
-      "route_id": 2,
-      "route_type": 0
-    },
-    {
-      "direction_id": 1,
-      "route_direction_description": "Trains will depart Craigieburn Station, Roxburgh Park Station, Coolaroo Station, Broadmeadows Station, Jacana Station, Glenroy Station, Oak Park Station, Pascoe Vale Station, Strathmore Station, Glenbervie Station, Essendon Station, Moonee Ponds Station, Ascot Vale Station, Newmarket Station, Kensington Station, North Melbourne Station, City. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day. Weekday morning and weekend services operate to Flinders Street via the City Loop.  From November 18, 2012 some weekday morning peak services will operate direct to Flnders Street.  Weekday afternoon services operate to Flinders Street via Southern Cross.",
-      "direction_name": "City (Flinders Street)",
-      "route_id": 3,
-      "route_type": 0
-    },
-    {
-      "direction_id": 2,
-      "route_direction_description": "Trains will depart City, North Melbourne Station, Kensington Station, Newmarket Station, Ascot Vale Station, Moonee Ponds Station, Essendon Station, Glenbervie Station, Strathmore Station, Pascoe Vale Station, Oak Park Station, Glenroy Station, Jacana Station, Broadmeadows Station, Coolaroo Station, Roxburgh Park Station, Craigieburn Station.  \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day.  Weekday morning and all weekend services operate from Flinders Street via Southern Cross. Weekday afternoon services operate from Flinders Street via City Loop.",
-      "direction_name": "Craigieburn",
-      "route_id": 3,
-      "route_type": 0
-    },
-    {
-      "direction_id": 1,
-      "route_direction_description": "Trains will depart Cranbourne Station, Merinda Park Station, Lynbrook Station, Dandenong Station, Yarraman Station, Noble Park Station, Sandown Park Station, Springvale Station, Westall Station, Clayton Station, Huntingdale Station, Oakleigh Station, Hughesdale Station, Murrumbeena Station, Carnegie Station, Caulfield Station, express to South Yarra Station, Richmond Station, City.  \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day. Weekday morning and weekend services operate to Flinders Street via City Loop.  Weekday afternoon and weekday evening services operate to Flinders Street and then City Loop. \r\n\r\nSTOPPING PATTERNS:   Most daytime trains operate express Caulfield to South Yarra.  Night trains stop all stations and operate as shuttles between Cranbourne and Dandenong.  \r\n\r\nAdditional express patterns operate during weekday peak times, as follows: \r\n\r\nWEEKDAY AM PEAK DIRECTION EXPRESS PATTERN: Operate two main stopping patterns.  A. Commences at Cranbourne, Berwick or Dandenong then all stations to Caulfield, express to South Yarra, Richmond, then all stations to Flinders Street via City Loop.  B. Stops all stations from Pakenham to Dandenong, then express to Noble Park, Sandown Park, Springvale, express to Clayton, express to Oakleigh, express to Caulfield, express to South Yarra, Richmond, then all stations to Flinders Street via City Loop.   \r\n\r\nNOTE: the above is a general guide and some service variations exist. Please consult timetables for detailed information on stopping patterns.\r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN DANDENONG AND CITY APPROXIMATELY EVERY 10 MINUTES MONDAY TO FRIDAY AND ON WEEKENDS.  EVENING SERVICE OPERATES EVERY 20 TO 30 MINUTES.",
-      "direction_name": "City (Flinders Street)",
-      "route_id": 4,
-      "route_type": 0
-    },
-    {
-      "direction_id": 4,
-      "route_direction_description": "Trains will depart City, Richmond Station, South Yarra Station, express to Caulfield Station, Carnegie Station, Murrumbeena Station, Hughesdale Station, Oakleigh Station, Huntingdale Station, Clayton Station, Westall Station, Springvale Station, Sandown Park Station, Noble Park Station, Yarraman Station, Dandenong Station, Lynbrook Station, Merinda Park Station and Cranbourne Station. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day. Weekday morning and weekend services operate direct from Flinders Street (having travelled via the City Loop).  Weekday afternoon and weekday evening services operate from Flinders Street via the City Loop.\r\n\r\nSTOPPING PATTERNS:  Most daytime trains operate express Caulfield to South Yarra.  Night trains stop all stations and operate as shuttles between Dandenong and Cranbourne.  \r\n\r\nAdditional express patterns operate during weekday peak times, as follows:\r\n\r\nWEEKDAY PM PEAK DIRECTION EXPRESS PATTERN:  Operate two main stopping patterns.  A. Commences at Flinders Street and operates via the City Loop to Richmond, South Yarra, express to Caulfield, all stations to Dandenong, with most trains operating all stations to Cranbourne.   B. Commences at Flinders Street and operates via the City Loop to Richmond, South Yarra, express to Caulfield, express to Oakleigh, express to Clayton, express to Springvale, Sandown Park, Noble Park, express to Dandenong then all stations to Pakenham.  \r\n\r\nNOTE: the above is a general guide and some service variations exist. Please consult timetables for detailed information on stopping patterns.\r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN CITY AND DANDENONG APPROXIMATELY EVERY 10 MINUTES MONDAY TO FRIDAY AND ON WEEKENDS.  EVENING SERVICE OPERATES EVERY 20 TO 30 MINUTES.",
-      "direction_name": "Cranbourne",
-      "route_id": 4,
-      "route_type": 0
-    },
-    {
-      "direction_id": 1,
-      "route_direction_description": "Trains will depart Mernada Station, Hawkstowe Station, Middle Gorge Station, South Morang Station, Epping Station, Lalor Station, Thomastown Station, Keon Park Station, Ruthven Station, Reservoir Station, Regent Station, Preston Station, Bell Station, Thornbury Station, Croxton Station, Northcote Station, Merri Station, Rushall Station, Clifton Hill Station, Victoria Park Station, Collingwood Station, North Richmond Station, West Richmond Station, Jolimont Station, City. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Services operate direct to Flinders Street.\r\n\r\nSTOPPING PATTERNS: Most services stop all stations.\r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN CLIFTON HILL AND CITY APPROXIMATELY EVERY 10 MINUTES.  EVENING SERVICES OPERATE APPROXIMATELY EVERY 15 TO 20 MINUTES BETWEEN CLIFTON HILL AND CITY.",
-      "direction_name": "City (Flinders Street)",
-      "route_id": 5,
-      "route_type": 0
-    },
-    {
-      "direction_id": 9,
-      "route_direction_description": "Trains will depart City, Jolimont Station, West Richmond Station, North Richmond Station, Collingwood Station, Victoria Park Station, Clifton Hill Station, Rushall Station, Merri Station, Northcote Station, Croxton Station, Thornbury Station, Bell Station, Preston Station, Regent Station, Reservoir Station, Ruthven Station, Keon Park Station, Thomastown Station, Lalor Station, Epping Station, South Morang Station, Middle Gorge Station, Hawkstowe Station and Mernda Station.  \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Services operate from Flinders Street via the City Loop.   \r\n\r\nSTOPPING PATTERNS: Most services stop all stations.\r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN CLIFTON HILL AND CITY APPROXIMATELY EVERY 10 MINUTES.  EVENING SERVICES OPERATE APPROXIMATELY EVERY 15 TO 20 MINUTES BETWEEN CLIFTON HILL AND CITY.",
-      "direction_name": "Mernda",
-      "route_id": 5,
-      "route_type": 0
-    },
-    {
-      "direction_id": 1,
-      "route_direction_description": "Trains will depart Frankston Station, Kananook Station, Seaford Station, Carrum Station, Bonbeach Station, Chelsea Station, Edithvale Station, Aspendale Station, Mordialloc Station, Parkdale Station, Mentone Station, Cheltenham Station, Highett Station, Moorabbin Station, Patterson Station, Bentleigh Station, McKinnon Station, Ormond Station, Glenhuntly Station, Caulfield Station, Malvern Station, Armadale Station, Toorak Station, Hawksburn Station, South Yarra Station, Richmond Station, City.  Express services operate during peak periods - see below. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Use of and direction of travel through the City Loop depends on the day of week and time of day. Most weekday services operate direct to Flinders Street (continuing to Southern Cross and Newport).  Weekend services operate to Flinders Street via the City Loop.  \r\n\r\nSTOPPING PATTERNS. Most trains stop all stations.  Express patterns operate during weekday peak times, as follows:\r\n\r\nA. Stop all stations to Flinders Street via the City Loop.  B. Express service direct to Flinders Street.  Most express trains stop all stations to Cheltenham, express to Caulfield, Malvern, express to South Yarra, Richmond and then direct to Flinders Street, with some extending to Southern Cross.  Passengers for loop stations are advised to change at Flinders Street or Southern Cross. \r\n\r\nNOTE: the above is a general guide and some service variations exist. Please consult timetables for detailed information on stopping patterns.\r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN FRANKSTON AND CITY APPROXIMATELY EVERY 10 MINUTES.  EVENING SERVICE OPERATES EVERY 20 TO 30 MINUTES.",
-      "direction_name": "City (Flinders Street)",
-      "route_id": 6,
-      "route_type": 0
-    },
-    {
-      "direction_id": 5,
-      "route_direction_description": "Trains will depart City, Richmond Station, South Yarra Station, Hawksburn Station, Toorak Station, Armadale Station, Malvern Station, Caulfield Station, Glenhuntly Station, Ormond Station, McKinnon Station, Bentleigh Station, Patterson Station, Moorabbin Station, Highett Station, Cheltenham Station, Mentone Station, Parkdale Station, Mordialloc Station, Aspendale Station, Edithvale Station, Chelsea Station, Bonbeach Station, Carrum Station, Seaford Station, Kananook Station, Frankston Station.  \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Use of and direction of travel through the City Loop depends on the day of week and time of day. Most weekday services operate direct from Flinders Street (having travelled from Newport and Southern Cross).  Weekend services operate direct from Flinders Street (having travelled via City Loop).  \r\n\r\nSTOPPING PATTERNS. Most trains stop all stations.  Express patterns operate during weekday peak times, as follows:\r\n\r\nA. Stop all stations from Flinders Street via the City Loop (some services terminate at Mordialloc or Carrum).  B. Express service direct from Flinders Street.  Express trains stop at Richmond, South Yarra, express to Malvern, Caulfield, express to Cheltenham then all stations to Frankston.  Passengers from loop stations are advised to take a connecting train and board at Richmond.  \r\n\r\nNOTE: the above is a general guide and some service variations exist. Please consult timetables for detailed information on stopping patterns.\r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN CITY AND FRANKSTON APPROXIMATELY EVERY 10 MINUTES.  EVENING SERVICE OPERATES EVERY 20 TO 30 MINUTES.",
-      "direction_name": "Frankston",
-      "route_id": 6,
-      "route_type": 0
-    },
-    {
-      "direction_id": 1,
-      "route_direction_description": "Trains will depart Glen Waverley Station, Syndal Station, Mount Waverley Station, Jordanville Station, Holmesglen Station, East Malvern Station, Darling Station, Glen Iris Station, Gardiner Station, Tooronga Station, Kooyong Station, Heyington Station, Burnley Station East Richmond Station, Richmond Station, City. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the time of day and day of week.  Weekday morning trains will operate direct to Flinders Steet, with weekday afternoon and evening services continuing via the City Loop. \r\n\r\nSTOPPING PATTERNS: Most services stop all stations. A limited number of peak services operate express - please see timetable.",
-      "direction_name": "City (Flinders Street)",
-      "route_id": 7,
-      "route_type": 0
-    },
-    {
-      "direction_id": 6,
-      "route_direction_description": "Trains will depart City, Richmond Station, East Richmond Station, Burnley Station, Heyington Station, Kooyong Station, Tooronga Station, Gardiner Station, Glen Iris Station, Darling Station, East Malvern Station, Holmesglen Station, Jordanville Station, Mount Waverley Station, Syndal Station and Glen Waverley Station. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the time of day and day of week.  Weekday morning and weekend trains will operate direct from Flinders Steet, with weekday afternoon and evening services operating via the City Loop. \r\n\r\nSTOPPING PATTERNS: Most services stop all stations. A limited number of peak services operate express - please see timetable.",
-      "direction_name": "Glen Waverley",
-      "route_id": 7,
-      "route_type": 0
-    },
-    {
-      "direction_id": 1,
-      "route_direction_description": "Trains will depart Hurstbridge Station, Wattle Glen Station, Diamond Creek Station, Eltham Station, Montmorency Station, Greensborough Station, Watsonia Station, Macleod Station, Rosanna Station, Heidelberg Station, Eaglemont Station, Ivanhoe Station, Darebin Station, Alphington Station, Fairfield Station, Dennis Station, Westgarth Station, Clifton Hill Station, Victoria Park Station, Collingwood Station, North Richmond Station, West Richmond Station, Jolimont Station, City. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Services operate direct to Flinders Street. \r\n\r\nSTOPPING PATTERNS: Most services stop all stations. Most peak services operate express between Clifton Hill and Jolimont. Peak services commencing at Hurstbridge also operate express  Ivanhoe to Clifton Hill. \r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN CLIFTON HILL AND CITY APPROXIMATELY EVERY 10 MINUTES.  EVENING SERVICES OPERATE APPROXIMATELY EVERY 15 TO 20 MINUTES.",
-      "direction_name": "City (Flinders Street)",
-      "route_id": 8,
-      "route_type": 0
-    },
-    {
-      "direction_id": 7,
-      "route_direction_description": "Trains will depart City, Jolimont Station, West Richmond Station, North Richmond Station, Collingwood Station, Victoria Park Station, Clifton Hill Station, Westgarth Station, Dennis Station, Fairfield Station, Alphington Station, Darebin Station, Ivanhoe Station, Eaglemont Station, Heildelberg Station, Rosanna Station, Macleod Station, Watsonia Station, Greensborough Station, Montmorency Station and Eltham Station.  Approximately every second train continues via Diamond Creek Station, Wattle Glen Station and Hurstbridge Station. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Services operate from Flinders Street via the City Loop.  \r\n\r\nSTOPPING PATTERNS: Most services stop all stations. Most peak services operate express between Clifton Hill and Jolimont. Most peak services extending to Hurstbridge also operate express Clifton Hill to Ivanhoe.  \r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN CLIFTON HILL AND CITY APPROXIMATELY EVERY 10 MINUTES.  EVENING SERVICES OPERATE APPROXIMATELY EVERY 15 TO 20 MINUTES.",
-      "direction_name": "Hurstbridge",
-      "route_id": 8,
-      "route_type": 0
-    },
-    {
-      "direction_id": 1,
-      "route_direction_description": "Trains will depart Lilydale Station, Mooroolbark Station, Croydon Station, Ringwood East Station, Ringwood Station, Heatherdale Station, Mitcham Station, Nunawading Station, Blackburn Station, Laburnum Station, Box Hill Station, Union Station, Chatham Station, Canterbury Station, East Camberwell Station, Camberwell Station, Auburn Station, Glenferrie Station, Hawthorn Station, Burnley Station, East Richmond Station, Richmond Station, City. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day. Weekday morning services operate to Flinders Street via City Loop.  Weekday afternoon, evening and weekend services operate to Flinders Street and then City Loop.  \r\n\r\nSTOPPING PATTERNS. Most services do not stop at East Richmond. Weekday express services stop at selected stations between Ringwood and Burnley.  During these times short services from Blackburn stop all stations to City.  \r\n\r\nNOTE: the above is a general guide and some service variations exist. Please consult timetables for detailed information on stopping patterns.\r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN RINGWOOD AND CITY APPROXIMATELY EVERY 15 MINUTES MONDAY TO FRIDAY AND 10 MINUTES ON WEEKENDS.  EVENING SERVICE OPERATES EVERY 15 TO 30 MINUTES.",
-      "direction_name": "City (Flinders Street)",
-      "route_id": 9,
-      "route_type": 0
-    },
-    {
-      "direction_id": 8,
-      "route_direction_description": "Trains will depart City and operate via Richmond Station, East Richmond Station, Burnley Station, Hawthorn Station, Glenferrie Station, Auburn Station, Camberwell Station, East Camberwell Station, Canterbury Station, Chatham Station, Union Station, Box Hill Station, Laburnum Station, Blackburn Station, Nunawading Station, Mitcham Station, Heatherdale Station, Ringwood Station, Ringwood East Station, Croydon Station, Mooroolbark Station and Lilydale Station. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer St). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day.  Weekday morning services depart from Flinders Street Station and operate direct to Richmond. Most weekday afternoon, evening and weekend services depart from Flinders Street and operate via the City Loop. \r\n\r\nSTOPPING PATTERNS. Most services do not stop at East Richmond. Weekday express services stop at selected stations between Burnley and Ringwood.  During these times short services operate from Flinders Street to Blackburn, stopping all stations.  \r\n\r\nNOTE: the above is a general guide and some service variations exist. Please consult timetables for detailed information on stopping patterns.\r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN RINGWOOD AND CITY APPROXIMATELY EVERY 15 MINUTES MONDAY TO FRIDAY AND 10 MINUTES ON WEEKENDS.  EVENING SERVICE OPERATES EVERY 15 TO 30 MINUTES.",
-      "direction_name": "Lilydale",
-      "route_id": 9,
-      "route_type": 0
-    },
-    {
-      "direction_id": 1,
-      "route_direction_description": "Trains will depart Pakenham Station, Cardinia Road Station, Officer Station, Beaconsfield Station, Berwick Station, Narre Warren Station, Hallam Station, Dandenong Station, Yarraman Station, Noble Park Station, Sandown Park Station, Springvale Station, Westall Station, Clayton Station, Huntingdale Station, Oakleigh Station, Hughesdale Station, Murrumbeena Station, Carnegie Station, Caulfield Station, express to South Yarra Station, Richmond Station, City. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day. Weekday morning and weekend services operate to Flinders Street via City Loop.  Weekday afternoon and weekday evening services operate to Flinders Street and then City Loop. \r\n\r\nSTOPPING PATTERNS:  Most daytime trains operate express Caulfield to South Yarra.  Night trains stop all stations.  Additional express patterns operate during weekday peak times, as follows:\r\n\r\nWEEKDAY AM PEAK DIRECTION EXPRESS PATTERN: Operate two main stopping patterns.   A. Commences at Cranbourne, Berwick or Dandenong then all stations to Caulfield, express to South Yarra, Richmond, then all stations to Flinders Street via City Loop.  B. Stops all stations from Pakenham to Dandenong, then express to Noble Park, Sandown Park, Springvale, express to Clayton, express to Oakleigh, express to Caulfield, express to South Yarra, Richmond, then all stations to Flinders Street via City Loop. \r\n\r\nNote: the above is a general guide and some service variations exist. Please consult timetables for detailed information on stopping patterns.\r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN DANDENONG AND CITY APPROXIMATELY EVERY 10 MINUTES MONDAY TO FRIDAY AND ON WEEKENDS.  EVENING SERVICE OPERATES EVERY 20 TO 30 MINUTES.",
-      "direction_name": "City (Flinders Street)",
-      "route_id": 11,
-      "route_type": 0
-    },
-    {
-      "direction_id": 10,
-      "route_direction_description": "Trains will depart City, Richmond Station, South Yarra Station, express to Caulfield Station, Carnegie Station, Murrumbeena Station, Hughesdale Station, Oakleigh Station, Huntingdale Station, Clayton Station, Westall Station, Springvale Station, Sandown Park Station, Noble Park Station, Yarraman Station, Dandenong Station, Hallam Station, Narre Warren Station, Berwick Station, Beaconsfield Station, Officer Station,Cardinia Road,  then Pakenham Station.\r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day. Weekday morning and weekend services operate direct from Flinders Street (having travelled via the City Loop).  Weekday afternoon and weekday evening services operate from Flinders Street via the City Loop. \r\n\r\nSTOPPING PATTERNS:   Most daytime trains operate express Caulfield to South Yarra.  Night trains stop all stations.  Additional express patterns operate during weekday peak times, as follows:\r\n\r\nWEEKDAY PM PEAK DIRECTION EXPRESS PATTERN: Operate two main stopping patterns.  A. Commences at Flinders Street and operates via the City Loop to Richmond, South Yarra, express to Caulfield, all stations to Dandenong, with most trains operating all stations to Cranbourne.   B. Commences at Flinders Street and operates via the City Loop to Richmond, South Yarra, express to Caulfield, express to Oakleigh, express to Clayton, express to Springvale, Sandown Park, Noble Park, express to Dandenong then all stations to Pakenham. \r\n\r\nNOTE: the above is a general guide and some service variations exist. Please consult timetables for detailed information on stopping patterns.\r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN CITY AND DANDENONG APPROXIMATELY EVERY 10 MINUTES MONDAY TO FRIDAY AND WEEKENDS.  EVENING SERVICE OPERATES EVERY 20 TO 30 MINUTES.",
-      "direction_name": "Pakenham",
-      "route_id": 11,
-      "route_type": 0
-    },
-    {
-      "direction_id": 1,
-      "route_direction_description": "Trains will depart Sandringham Station, Hampton Station, Brighton Beach Station, Middle Brighton Station, North Brighton Station, Gardenvale Station, Elsternwick Station, Ripponlea Station, Balaclava Station, Windsor Station, Prahran Station, South Yarra Station, Richmond Station and terminate at Flinders Street Station. On weekends, services travel via the City Loop. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Use of the City Loop depends on the day of the week. Most weekday services operate direct to Flinders Street.  Weekend services operate to Flinders Street via the City Loop.  \r\n\r\nSTOPPING PATTERNS. All trains stop all stations.",
-      "direction_name": "City (Flinders Street)",
-      "route_id": 12,
-      "route_type": 0
-    },
-    {
-      "direction_id": 11,
-      "route_direction_description": "Trains will depart Flinders Street Station, Richmond Station, South Yarra Station, Prahran Station, Windsor Station, Balaclava Station, Ripponlea Station, Elsternwick Station, Gardenvale Station, North Brighton Station, Middle Brighton Station, Brighton Beach Station, Hampton Station and Sandringham Station. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Use of the City Loop depends on the day of the week. Weekend services will have operated via the City Loop before reaching Flinders Street.  \r\n\r\nSTOPPING PATTERNS. All trains stop all stations.",
-      "direction_name": "Sandringham",
-      "route_id": 12,
-      "route_type": 0
-    },
-    {
-      "direction_id": 5,
-      "route_direction_description": "Trains will depart Stony Point Station, Crib Point Station, Morradoo Station, Bittern Station, Hastings Station, Tyabb Station, Somerville Station, Baxter Station, Leawarra Station and terminate at Frankston Station.",
-      "direction_name": "Frankston",
-      "route_id": 13,
-      "route_type": 0
-    },
-    {
-      "direction_id": 12,
-      "route_direction_description": "Trains will depart Frankston Station, Leawarra Station, Baxter Station, Somerville Station, Tyabb Station, Hastings Station, Bittern Station, Morradoo Station, Crib Point Station, terminating at Stony Point Station.",
-      "direction_name": "Stony Point",
-      "route_id": 13,
-      "route_type": 0
-    },
-    {
-      "direction_id": 1,
-      "route_direction_description": "Trains will depart Sunbury Station, Diggers Rest Station, Watergardens Station, Keilor Plains Station, St Albans Station, Ginifer Station, Albion Station, Sunshine Station, Tottenham Station, West Footscray, Middle Footscray Station, Footscray Station, North Melbourne Station, City. CITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). CITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day. Weekday morning and all weekend services operate to Flinders Street via the City Loop. Weekday afternoon services operate to Flinders Street via Southern Cross. STOPPING PATTERNS: Most trains stop all stations except South Kensington. Some weekday peak period services operate express between Sunshine and Footscray.",
-      "direction_name": "City (Flinders Street)",
-      "route_id": 14,
-      "route_type": 0
-    },
-    {
-      "direction_id": 13,
-      "route_direction_description": "Trains will depart City, North Melbourne Station, Footscray Station, Middle Footscray Station, West Footscray, Tottenham Station, Sunshine Station, Albion Station, Ginifer Station, St Albans Station, Keilor Plains Station, Watergardens Station, Diggers Rest Station, Sunbury Station.  CITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). CITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day. Weekday morning and all weekend services commence at Flinders Street and operate via Southern Cross. Weekday afternoon trips commence at Flinders Street and operate via City Loop. STOPPING PATTERNS: Most trains stop all stations except South Kensington. Some weekday peak period services operate express between Footscray and Sunshine.",
-      "direction_name": "Sunbury",
-      "route_id": 14,
-      "route_type": 0
-    },
-    {
-      "direction_id": 1,
-      "route_direction_description": "Trains will depart Upfield Station, Gowrie Station, Fawkner Station, Merlynston Station, Batman Station, Coburg Station, Moreland Station, Anstey Station, Brunswick Station, Jewell Station, Royal Park Station, Flemington Bridge Station, Macaulay Station, North Melbourne Station, City. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day. Weekday morning and all weekend services operate to Flinders Street via the City Loop.  Weekday afternoon services operate to Flinders Street via Southern Cross. \r\n\r\nSTOPPING PATTERNS: All trains stop all stations.",
-      "direction_name": "City (Flinders Street)",
-      "route_id": 15,
-      "route_type": 0
-    },
-    {
-      "direction_id": 14,
-      "route_direction_description": "Trains will depart City, North Melbourne Station, Macaulay Station, Flemington Bridge Station, Royal Park Station, Jewell Station, Brunswick Station, Anstey Station, Moreland Station, Coburg Station, Batman Station, Merlynston Station, Fawkner Station, Gowrie Station, Upfield Station.  \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day. Weekday morning and all weekend services commence at Flinders Street and operate via Southern Cross.  Weekday afternoon trips commence at Flinders Street and operate via City Loop. \r\n\r\nSTOPPING PATTERNS: All trains stop all stations.",
-      "direction_name": "Upfield",
-      "route_id": 15,
-      "route_type": 0
-    },
-    {
-      "direction_id": 1,
-      "route_direction_description": "Weekday Werribee trains will depart Werribee Station, Hoppers Crossing Station, Williams Landing Station, Aircraft Station, Laverton Station, Newport Station, Spotswood Station, Yarraville Station, Seddon Station, Footscray Station, South Kensington Station, North Melbourne Station, City. Please note during the day trains runs express Newport to Laverton and not via the Altona Loop.\r\n\r\nWeekday Laverton trains will depart Laverton Station, Westona Station, Altona Station, Seaholme Station and Newport Station,  Spotswood Station, Yarraville Station, Seddon Station, Footscray Station, South Kensington Station, North Melbourne Station, City \r\n\r\nOn weekday evenings and weekends a combined Werribee/Altona service will operate.  Trains will depart Werribee Station, Hoppers Crossing Station, Aircraft Station, Laverton Station, Westona Station, Altona Station, Seaholme Station, Newport Station, Spotswood Station, Yarraville Station, Seddon Station, Footscray Station, South Kensington Station, North Melbourne Station, City. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Use of and direction of travel through the City Loop depends on the day of week and time of day.  On weekdays trains will operate direct to Southern Cross Station and Flinders Street Station and not via the City Loop.  These trains extend to Frankston.  Weekend services operate to Flinders Street via the City Loop. \r\n\r\nSTOPPING PATTERNS:   Most trains from Werribee operate express between Newport and Footscray. All Laverton services runs to Flinders Street.\r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN NEWPORT AND CITY APPROXIMATELY EVERY 10 MINUTES MONDAY TO FRIDAY.  EVENING AND WEEKEND SERVICES OPERATE EVERY 20 TO 30 MINUTES.",
-      "direction_name": "City (Flinders Street)",
-      "route_id": 16,
-      "route_type": 0
-    },
-    {
-      "direction_id": 15,
-      "route_direction_description": "Weekday Werribee trains will depart Flinders Street Station, Southern Cross Station, North Melbourne Station, South Kensington Station, Footscray Station, Seddon Station, Yarraville Station, Spotswood Station, Newport Station, Laverton Station, Aircraft Station, Williams Landing Station, Hoppers Crossing Station and terminate at Werribee Station. Please note during the day trains runs express Newport to Laverton and not via the Altona Loop.\r\n\r\nWeekday Laverton trains will depart Flinders Street Station, Southern Cross Station, North Melbourne Station, South Kensington Station, Footscray Station, Seddon Station, Yarraville Station, Spotswood Station, Newport Station, Seaholme Station, Altona Station, Westona Station and terminate at Laverton Station.\r\n\r\nOn weekday evenings and weekends a combined Werribee/Altona service will operate.  Trains will depart City, North Melbourne Station, South Kensington Station, Footscray Station, Seddon Station, Yarraville Station, Spotswood Station, Newport Station, Seaholme Station, Altona Station, Westona Station,  Laverton Station, Aircraft Station, Hoppers Crossing Station and terminate at Werribee Station. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Use of and direction of travel through the City Loop depends on the day of week and time of day. Most weekday services operate direct from Flinders Street and Southern Cross (having travelled from Frankston and Richmond).  Weekend services operate direct from Flinders Street and Southern Cross (having travelled via City Loop).  \r\n\r\nSTOPPING PATTERNS:   Most trains stop all stations. Most trains from Werribee operate express between Newport and Footscray. All Laverton services runs from Flinders Street.\r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN CITY AND NEWPORT APPROXIMATELY EVERY 10 MINUTES MONDAY TO FRIDAY.  EVENING AND WEEKEND SERVICES OPERATE EVERY 20 TO 30 MINUTES.",
-      "direction_name": "Werribee",
-      "route_id": 16,
-      "route_type": 0
-    },
-    {
-      "direction_id": 1,
-      "route_direction_description": "Weekday trains will operate via Williamstown Station, Williamstown Beach Station and North Williamstown Station,  Newport Station, Spotswood Station, Yarraville Station, Seddon Station, Footscray Station, South Kensington Station, North Melbourne Station, Southern Cross Station and Flinders Street Station.  Most trains will then continue through to Frankston. \r\n\r\nOn late evenings and weekends trains will operate between Williamstown and Newport only with a connecting train at Newport. Trains then operate to Flinders Street, operating via the City Loop on weekends. \r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN NEWPORT AND CITY APPROXIMATELY EVERY 10 MINUTES MONDAY TO FRIDAY.  EVENING AND WEEKEND SERVICES OPERATE EVERY 20 TO 30 MINUTES.",
-      "direction_name": "City (Flinders Street)",
-      "route_id": 17,
-      "route_type": 0
-    },
-    {
-      "direction_id": 16,
-      "route_direction_description": "Weekday trains will operate via Flinders Street Station, Southern Cross Station, North Melbourne Station, South Kensington Station, Footscray Station, Seddon Station, Yarraville Station, Spotswood Station, Newport Station, North Williamstown Station, Williamstown Beach Station, Williamstown. \r\n\r\nOn late evenings and weekends trains will operate between Newport and Williamstown. Board a Werribee train and change at Newport.   \r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN NEWPORT AND CITY APPROXIMATELY EVERY 10 MINUTES MONDAY TO FRIDAY.  EVENING AND WEEKEND SERVICES OPERATE EVERY 20 TO 30 MINUTES.",
-      "direction_name": "Williamstown",
-      "route_id": 17,
-      "route_type": 0
-    },
-    {
-      "direction_id": 17,
-      "route_direction_description": "Trains will depart Flemington Racecourse Station (special events only), Showgrounds Station (only during the Royal Melbourne Show and other special events), North Melbourne Station, Southern Cross Station and terminates at Flinders Street Station.",
-      "direction_name": "Flinders Street",
-      "route_id": 1482,
-      "route_type": 0
-    },
-    {
-      "direction_id": 18,
-      "route_direction_description": "Trains will depart Flinders Street Station, Southern Cross Station, North Melbourne Station, Showgrounds Station (only during the Royal Melbourne Show and other special events) and terminates at Flemington Racecourse (special events only).",
-      "direction_name": "Showgrounds/Flemington",
-      "route_id": 1482,
-      "route_type": 0
-    }
-  ]
+  {
+    "direction_id": 0,
+    "route_direction_description": "Trains depart Camberwell Station and will operate via Riversdale Station, Willison Station, Hartwell Station, Burwood Station, Ashburton Station and Alamein Station. Connections from the city are available at Camberwell. \r\n\r\nWeekday peak trips operate from Flinders Street Station and run via Richmond Station, East Richmond Station, Burnley Station, Hawthorn Station, Glenferrie Station and Auburn Station to Camberwell Station and on to Alamein, stopping all stations.",
+    "direction_name": "Alamein",
+    "route_id": 1,
+    "route_type": 0
+  },
+  {
+    "direction_id": 1,
+    "route_direction_description": "Trains will operate via Alamein Station, Ashburton Station, Burwood Station, Hartwell Station, Willison Station, and Riversdale Station to Camberwell Station.  \r\n\r\nWeekday peak trips continue via Auburn Station, Glenferrie Station, Hawthorn Station, Burnley Station, East Richmond Station, Richmond Station to Flinders Street Station via the City Loop.  At other times connections to the city are available from Camberwell.",
+    "direction_name": "City (Flinders Street)",
+    "route_id": 1,
+    "route_type": 0
+  },
+  {
+    "direction_id": 3,
+    "route_direction_description": "Trains will depart City and operate via Richmond Station, East Richmond Station, Burnley Station, Hawthorn Station, Glenferrie Station, Auburn Station, Camberwell Station, East Camberwell Station, Canterbury Station, Chatham Station, Union Station, Box Hill Station, Laburnum Station, Blackburn Station, Nunawading Station, Mitcham Station, Heatherdale Station, Ringwood Station, Heathmont Station, Bayswater Station, Boronia Station, Ferntree Gully Station, Upper Ferntree Gully Station, Upway Station, Tecoma Station and Belgrave Station. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day.  Weekday morning services depart from Flinders Street Station and operate direct to Richmond. Most weekday afternoon, evening and weekend services depart from Flinders Street and operate via the City Loop. \r\n\r\nSTOPPING PATTERNS. Most services do not stop at East Richmond. Weekday express services stop at selected stations between Burnley and Ringwood.  During these times short services operate from Flinders Street to Blackburn, stopping all stations.",
+    "direction_name": "Belgrave",
+    "route_id": 2,
+    "route_type": 0
+  },
+  {
+    "direction_id": 1,
+    "route_direction_description": "Trains will depart Belgrave Station, Tecoma Station, Upwey Station, Upper Ferntree Gully Station, Ferntree Gully Station, Boronia Station, Bayswater Station, Heathmont Station, Ringwood Station, Heatherdale Station, Mitcham Station, Nunawading Station, Blackburn Station, Laburnum Station, Box Hill Station, Union Station, Chatham Station, Canterbury Station, East Camberwell Station, Camberwell Station, Auburn Station, Glenferrie Station, Hawthorn Station, Burnley Station, East Richmond Station, Richmond Station, City. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day. Weekday morning services operate to Flinders Street via City Loop.  Weekday afternoon, evening and weekend services operate to Flinders Street and then City Loop.  \r\n\r\nSTOPPING PATTERNS. Most services do not stop at East Richmond. Weekday express services stop at selected stations between Ringwood and Burnley.  During these times short services from Blackburn stop all stations to City.  \r\n\r\nNote: the above is a general guide and some service variations exist. Please consult timetables for detailed information on stopping patterns.\r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN RINGWOOD AND CITY APPROXIMATELY EVERY 15 MINUTES MONDAY TO FRIDAY AND 10 MINUTES ON WEEKENDS.  EVENING SERVICE OPERATES EVERY 15 TO 30 MINUTES.",
+    "direction_name": "City (Flinders Street)",
+    "route_id": 2,
+    "route_type": 0
+  },
+  {
+    "direction_id": 1,
+    "route_direction_description": "Trains will depart Craigieburn Station, Roxburgh Park Station, Coolaroo Station, Broadmeadows Station, Jacana Station, Glenroy Station, Oak Park Station, Pascoe Vale Station, Strathmore Station, Glenbervie Station, Essendon Station, Moonee Ponds Station, Ascot Vale Station, Newmarket Station, Kensington Station, North Melbourne Station, City. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day. Weekday morning and weekend services operate to Flinders Street via the City Loop.  From November 18, 2012 some weekday morning peak services will operate direct to Flnders Street.  Weekday afternoon services operate to Flinders Street via Southern Cross.",
+    "direction_name": "City (Flinders Street)",
+    "route_id": 3,
+    "route_type": 0
+  },
+  {
+    "direction_id": 2,
+    "route_direction_description": "Trains will depart City, North Melbourne Station, Kensington Station, Newmarket Station, Ascot Vale Station, Moonee Ponds Station, Essendon Station, Glenbervie Station, Strathmore Station, Pascoe Vale Station, Oak Park Station, Glenroy Station, Jacana Station, Broadmeadows Station, Coolaroo Station, Roxburgh Park Station, Craigieburn Station.  \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day.  Weekday morning and all weekend services operate from Flinders Street via Southern Cross. Weekday afternoon services operate from Flinders Street via City Loop.",
+    "direction_name": "Craigieburn",
+    "route_id": 3,
+    "route_type": 0
+  },
+  {
+    "direction_id": 1,
+    "route_direction_description": "Trains will depart Cranbourne Station, Merinda Park Station, Lynbrook Station, Dandenong Station, Yarraman Station, Noble Park Station, Sandown Park Station, Springvale Station, Westall Station, Clayton Station, Huntingdale Station, Oakleigh Station, Hughesdale Station, Murrumbeena Station, Carnegie Station, Caulfield Station, express to South Yarra Station, Richmond Station, City.  \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day. Weekday morning and weekend services operate to Flinders Street via City Loop.  Weekday afternoon and weekday evening services operate to Flinders Street and then City Loop. \r\n\r\nSTOPPING PATTERNS:   Most daytime trains operate express Caulfield to South Yarra.  Night trains stop all stations and operate as shuttles between Cranbourne and Dandenong.  \r\n\r\nAdditional express patterns operate during weekday peak times, as follows: \r\n\r\nWEEKDAY AM PEAK DIRECTION EXPRESS PATTERN: Operate two main stopping patterns.  A. Commences at Cranbourne, Berwick or Dandenong then all stations to Caulfield, express to South Yarra, Richmond, then all stations to Flinders Street via City Loop.  B. Stops all stations from Pakenham to Dandenong, then express to Noble Park, Sandown Park, Springvale, express to Clayton, express to Oakleigh, express to Caulfield, express to South Yarra, Richmond, then all stations to Flinders Street via City Loop.   \r\n\r\nNOTE: the above is a general guide and some service variations exist. Please consult timetables for detailed information on stopping patterns.\r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN DANDENONG AND CITY APPROXIMATELY EVERY 10 MINUTES MONDAY TO FRIDAY AND ON WEEKENDS.  EVENING SERVICE OPERATES EVERY 20 TO 30 MINUTES.",
+    "direction_name": "City (Flinders Street)",
+    "route_id": 4,
+    "route_type": 0
+  },
+  {
+    "direction_id": 4,
+    "route_direction_description": "Trains will depart City, Richmond Station, South Yarra Station, express to Caulfield Station, Carnegie Station, Murrumbeena Station, Hughesdale Station, Oakleigh Station, Huntingdale Station, Clayton Station, Westall Station, Springvale Station, Sandown Park Station, Noble Park Station, Yarraman Station, Dandenong Station, Lynbrook Station, Merinda Park Station and Cranbourne Station. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day. Weekday morning and weekend services operate direct from Flinders Street (having travelled via the City Loop).  Weekday afternoon and weekday evening services operate from Flinders Street via the City Loop.\r\n\r\nSTOPPING PATTERNS:  Most daytime trains operate express Caulfield to South Yarra.  Night trains stop all stations and operate as shuttles between Dandenong and Cranbourne.  \r\n\r\nAdditional express patterns operate during weekday peak times, as follows:\r\n\r\nWEEKDAY PM PEAK DIRECTION EXPRESS PATTERN:  Operate two main stopping patterns.  A. Commences at Flinders Street and operates via the City Loop to Richmond, South Yarra, express to Caulfield, all stations to Dandenong, with most trains operating all stations to Cranbourne.   B. Commences at Flinders Street and operates via the City Loop to Richmond, South Yarra, express to Caulfield, express to Oakleigh, express to Clayton, express to Springvale, Sandown Park, Noble Park, express to Dandenong then all stations to Pakenham.  \r\n\r\nNOTE: the above is a general guide and some service variations exist. Please consult timetables for detailed information on stopping patterns.\r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN CITY AND DANDENONG APPROXIMATELY EVERY 10 MINUTES MONDAY TO FRIDAY AND ON WEEKENDS.  EVENING SERVICE OPERATES EVERY 20 TO 30 MINUTES.",
+    "direction_name": "Cranbourne",
+    "route_id": 4,
+    "route_type": 0
+  },
+  {
+    "direction_id": 1,
+    "route_direction_description": "Trains will depart Mernada Station, Hawkstowe Station, Middle Gorge Station, South Morang Station, Epping Station, Lalor Station, Thomastown Station, Keon Park Station, Ruthven Station, Reservoir Station, Regent Station, Preston Station, Bell Station, Thornbury Station, Croxton Station, Northcote Station, Merri Station, Rushall Station, Clifton Hill Station, Victoria Park Station, Collingwood Station, North Richmond Station, West Richmond Station, Jolimont Station, City. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Services operate direct to Flinders Street.\r\n\r\nSTOPPING PATTERNS: Most services stop all stations.\r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN CLIFTON HILL AND CITY APPROXIMATELY EVERY 10 MINUTES.  EVENING SERVICES OPERATE APPROXIMATELY EVERY 15 TO 20 MINUTES BETWEEN CLIFTON HILL AND CITY.",
+    "direction_name": "City (Flinders Street)",
+    "route_id": 5,
+    "route_type": 0
+  },
+  {
+    "direction_id": 9,
+    "route_direction_description": "Trains will depart City, Jolimont Station, West Richmond Station, North Richmond Station, Collingwood Station, Victoria Park Station, Clifton Hill Station, Rushall Station, Merri Station, Northcote Station, Croxton Station, Thornbury Station, Bell Station, Preston Station, Regent Station, Reservoir Station, Ruthven Station, Keon Park Station, Thomastown Station, Lalor Station, Epping Station, South Morang Station, Middle Gorge Station, Hawkstowe Station and Mernda Station.  \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Services operate from Flinders Street via the City Loop.   \r\n\r\nSTOPPING PATTERNS: Most services stop all stations.\r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN CLIFTON HILL AND CITY APPROXIMATELY EVERY 10 MINUTES.  EVENING SERVICES OPERATE APPROXIMATELY EVERY 15 TO 20 MINUTES BETWEEN CLIFTON HILL AND CITY.",
+    "direction_name": "Mernda",
+    "route_id": 5,
+    "route_type": 0
+  },
+  {
+    "direction_id": 1,
+    "route_direction_description": "Trains will depart Frankston Station, Kananook Station, Seaford Station, Carrum Station, Bonbeach Station, Chelsea Station, Edithvale Station, Aspendale Station, Mordialloc Station, Parkdale Station, Mentone Station, Cheltenham Station, Highett Station, Moorabbin Station, Patterson Station, Bentleigh Station, McKinnon Station, Ormond Station, Glenhuntly Station, Caulfield Station, Malvern Station, Armadale Station, Toorak Station, Hawksburn Station, South Yarra Station, Richmond Station, City.  Express services operate during peak periods - see below. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Use of and direction of travel through the City Loop depends on the day of week and time of day. Most weekday services operate direct to Flinders Street (continuing to Southern Cross and Newport).  Weekend services operate to Flinders Street via the City Loop.  \r\n\r\nSTOPPING PATTERNS. Most trains stop all stations.  Express patterns operate during weekday peak times, as follows:\r\n\r\nA. Stop all stations to Flinders Street via the City Loop.  B. Express service direct to Flinders Street.  Most express trains stop all stations to Cheltenham, express to Caulfield, Malvern, express to South Yarra, Richmond and then direct to Flinders Street, with some extending to Southern Cross.  Passengers for loop stations are advised to change at Flinders Street or Southern Cross. \r\n\r\nNOTE: the above is a general guide and some service variations exist. Please consult timetables for detailed information on stopping patterns.\r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN FRANKSTON AND CITY APPROXIMATELY EVERY 10 MINUTES.  EVENING SERVICE OPERATES EVERY 20 TO 30 MINUTES.",
+    "direction_name": "City (Flinders Street)",
+    "route_id": 6,
+    "route_type": 0
+  },
+  {
+    "direction_id": 5,
+    "route_direction_description": "Trains will depart City, Richmond Station, South Yarra Station, Hawksburn Station, Toorak Station, Armadale Station, Malvern Station, Caulfield Station, Glenhuntly Station, Ormond Station, McKinnon Station, Bentleigh Station, Patterson Station, Moorabbin Station, Highett Station, Cheltenham Station, Mentone Station, Parkdale Station, Mordialloc Station, Aspendale Station, Edithvale Station, Chelsea Station, Bonbeach Station, Carrum Station, Seaford Station, Kananook Station, Frankston Station.  \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Use of and direction of travel through the City Loop depends on the day of week and time of day. Most weekday services operate direct from Flinders Street (having travelled from Newport and Southern Cross).  Weekend services operate direct from Flinders Street (having travelled via City Loop).  \r\n\r\nSTOPPING PATTERNS. Most trains stop all stations.  Express patterns operate during weekday peak times, as follows:\r\n\r\nA. Stop all stations from Flinders Street via the City Loop (some services terminate at Mordialloc or Carrum).  B. Express service direct from Flinders Street.  Express trains stop at Richmond, South Yarra, express to Malvern, Caulfield, express to Cheltenham then all stations to Frankston.  Passengers from loop stations are advised to take a connecting train and board at Richmond.  \r\n\r\nNOTE: the above is a general guide and some service variations exist. Please consult timetables for detailed information on stopping patterns.\r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN CITY AND FRANKSTON APPROXIMATELY EVERY 10 MINUTES.  EVENING SERVICE OPERATES EVERY 20 TO 30 MINUTES.",
+    "direction_name": "Frankston",
+    "route_id": 6,
+    "route_type": 0
+  },
+  {
+    "direction_id": 1,
+    "route_direction_description": "Trains will depart Glen Waverley Station, Syndal Station, Mount Waverley Station, Jordanville Station, Holmesglen Station, East Malvern Station, Darling Station, Glen Iris Station, Gardiner Station, Tooronga Station, Kooyong Station, Heyington Station, Burnley Station East Richmond Station, Richmond Station, City. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the time of day and day of week.  Weekday morning trains will operate direct to Flinders Steet, with weekday afternoon and evening services continuing via the City Loop. \r\n\r\nSTOPPING PATTERNS: Most services stop all stations. A limited number of peak services operate express - please see timetable.",
+    "direction_name": "City (Flinders Street)",
+    "route_id": 7,
+    "route_type": 0
+  },
+  {
+    "direction_id": 6,
+    "route_direction_description": "Trains will depart City, Richmond Station, East Richmond Station, Burnley Station, Heyington Station, Kooyong Station, Tooronga Station, Gardiner Station, Glen Iris Station, Darling Station, East Malvern Station, Holmesglen Station, Jordanville Station, Mount Waverley Station, Syndal Station and Glen Waverley Station. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the time of day and day of week.  Weekday morning and weekend trains will operate direct from Flinders Steet, with weekday afternoon and evening services operating via the City Loop. \r\n\r\nSTOPPING PATTERNS: Most services stop all stations. A limited number of peak services operate express - please see timetable.",
+    "direction_name": "Glen Waverley",
+    "route_id": 7,
+    "route_type": 0
+  },
+  {
+    "direction_id": 1,
+    "route_direction_description": "Trains will depart Hurstbridge Station, Wattle Glen Station, Diamond Creek Station, Eltham Station, Montmorency Station, Greensborough Station, Watsonia Station, Macleod Station, Rosanna Station, Heidelberg Station, Eaglemont Station, Ivanhoe Station, Darebin Station, Alphington Station, Fairfield Station, Dennis Station, Westgarth Station, Clifton Hill Station, Victoria Park Station, Collingwood Station, North Richmond Station, West Richmond Station, Jolimont Station, City. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Services operate direct to Flinders Street. \r\n\r\nSTOPPING PATTERNS: Most services stop all stations. Most peak services operate express between Clifton Hill and Jolimont. Peak services commencing at Hurstbridge also operate express  Ivanhoe to Clifton Hill. \r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN CLIFTON HILL AND CITY APPROXIMATELY EVERY 10 MINUTES.  EVENING SERVICES OPERATE APPROXIMATELY EVERY 15 TO 20 MINUTES.",
+    "direction_name": "City (Flinders Street)",
+    "route_id": 8,
+    "route_type": 0
+  },
+  {
+    "direction_id": 7,
+    "route_direction_description": "Trains will depart City, Jolimont Station, West Richmond Station, North Richmond Station, Collingwood Station, Victoria Park Station, Clifton Hill Station, Westgarth Station, Dennis Station, Fairfield Station, Alphington Station, Darebin Station, Ivanhoe Station, Eaglemont Station, Heildelberg Station, Rosanna Station, Macleod Station, Watsonia Station, Greensborough Station, Montmorency Station and Eltham Station.  Approximately every second train continues via Diamond Creek Station, Wattle Glen Station and Hurstbridge Station. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Services operate from Flinders Street via the City Loop.  \r\n\r\nSTOPPING PATTERNS: Most services stop all stations. Most peak services operate express between Clifton Hill and Jolimont. Most peak services extending to Hurstbridge also operate express Clifton Hill to Ivanhoe.  \r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN CLIFTON HILL AND CITY APPROXIMATELY EVERY 10 MINUTES.  EVENING SERVICES OPERATE APPROXIMATELY EVERY 15 TO 20 MINUTES.",
+    "direction_name": "Hurstbridge",
+    "route_id": 8,
+    "route_type": 0
+  },
+  {
+    "direction_id": 1,
+    "route_direction_description": "Trains will depart Lilydale Station, Mooroolbark Station, Croydon Station, Ringwood East Station, Ringwood Station, Heatherdale Station, Mitcham Station, Nunawading Station, Blackburn Station, Laburnum Station, Box Hill Station, Union Station, Chatham Station, Canterbury Station, East Camberwell Station, Camberwell Station, Auburn Station, Glenferrie Station, Hawthorn Station, Burnley Station, East Richmond Station, Richmond Station, City. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day. Weekday morning services operate to Flinders Street via City Loop.  Weekday afternoon, evening and weekend services operate to Flinders Street and then City Loop.  \r\n\r\nSTOPPING PATTERNS. Most services do not stop at East Richmond. Weekday express services stop at selected stations between Ringwood and Burnley.  During these times short services from Blackburn stop all stations to City.  \r\n\r\nNOTE: the above is a general guide and some service variations exist. Please consult timetables for detailed information on stopping patterns.\r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN RINGWOOD AND CITY APPROXIMATELY EVERY 15 MINUTES MONDAY TO FRIDAY AND 10 MINUTES ON WEEKENDS.  EVENING SERVICE OPERATES EVERY 15 TO 30 MINUTES.",
+    "direction_name": "City (Flinders Street)",
+    "route_id": 9,
+    "route_type": 0
+  },
+  {
+    "direction_id": 8,
+    "route_direction_description": "Trains will depart City and operate via Richmond Station, East Richmond Station, Burnley Station, Hawthorn Station, Glenferrie Station, Auburn Station, Camberwell Station, East Camberwell Station, Canterbury Station, Chatham Station, Union Station, Box Hill Station, Laburnum Station, Blackburn Station, Nunawading Station, Mitcham Station, Heatherdale Station, Ringwood Station, Ringwood East Station, Croydon Station, Mooroolbark Station and Lilydale Station. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer St). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day.  Weekday morning services depart from Flinders Street Station and operate direct to Richmond. Most weekday afternoon, evening and weekend services depart from Flinders Street and operate via the City Loop. \r\n\r\nSTOPPING PATTERNS. Most services do not stop at East Richmond. Weekday express services stop at selected stations between Burnley and Ringwood.  During these times short services operate from Flinders Street to Blackburn, stopping all stations.  \r\n\r\nNOTE: the above is a general guide and some service variations exist. Please consult timetables for detailed information on stopping patterns.\r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN RINGWOOD AND CITY APPROXIMATELY EVERY 15 MINUTES MONDAY TO FRIDAY AND 10 MINUTES ON WEEKENDS.  EVENING SERVICE OPERATES EVERY 15 TO 30 MINUTES.",
+    "direction_name": "Lilydale",
+    "route_id": 9,
+    "route_type": 0
+  },
+  {
+    "direction_id": 1,
+    "route_direction_description": "Trains will depart Pakenham Station, Cardinia Road Station, Officer Station, Beaconsfield Station, Berwick Station, Narre Warren Station, Hallam Station, Dandenong Station, Yarraman Station, Noble Park Station, Sandown Park Station, Springvale Station, Westall Station, Clayton Station, Huntingdale Station, Oakleigh Station, Hughesdale Station, Murrumbeena Station, Carnegie Station, Caulfield Station, express to South Yarra Station, Richmond Station, City. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day. Weekday morning and weekend services operate to Flinders Street via City Loop.  Weekday afternoon and weekday evening services operate to Flinders Street and then City Loop. \r\n\r\nSTOPPING PATTERNS:  Most daytime trains operate express Caulfield to South Yarra.  Night trains stop all stations.  Additional express patterns operate during weekday peak times, as follows:\r\n\r\nWEEKDAY AM PEAK DIRECTION EXPRESS PATTERN: Operate two main stopping patterns.   A. Commences at Cranbourne, Berwick or Dandenong then all stations to Caulfield, express to South Yarra, Richmond, then all stations to Flinders Street via City Loop.  B. Stops all stations from Pakenham to Dandenong, then express to Noble Park, Sandown Park, Springvale, express to Clayton, express to Oakleigh, express to Caulfield, express to South Yarra, Richmond, then all stations to Flinders Street via City Loop. \r\n\r\nNote: the above is a general guide and some service variations exist. Please consult timetables for detailed information on stopping patterns.\r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN DANDENONG AND CITY APPROXIMATELY EVERY 10 MINUTES MONDAY TO FRIDAY AND ON WEEKENDS.  EVENING SERVICE OPERATES EVERY 20 TO 30 MINUTES.",
+    "direction_name": "City (Flinders Street)",
+    "route_id": 11,
+    "route_type": 0
+  },
+  {
+    "direction_id": 10,
+    "route_direction_description": "Trains will depart City, Richmond Station, South Yarra Station, express to Caulfield Station, Carnegie Station, Murrumbeena Station, Hughesdale Station, Oakleigh Station, Huntingdale Station, Clayton Station, Westall Station, Springvale Station, Sandown Park Station, Noble Park Station, Yarraman Station, Dandenong Station, Hallam Station, Narre Warren Station, Berwick Station, Beaconsfield Station, Officer Station,Cardinia Road,  then Pakenham Station.\r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day. Weekday morning and weekend services operate direct from Flinders Street (having travelled via the City Loop).  Weekday afternoon and weekday evening services operate from Flinders Street via the City Loop. \r\n\r\nSTOPPING PATTERNS:   Most daytime trains operate express Caulfield to South Yarra.  Night trains stop all stations.  Additional express patterns operate during weekday peak times, as follows:\r\n\r\nWEEKDAY PM PEAK DIRECTION EXPRESS PATTERN: Operate two main stopping patterns.  A. Commences at Flinders Street and operates via the City Loop to Richmond, South Yarra, express to Caulfield, all stations to Dandenong, with most trains operating all stations to Cranbourne.   B. Commences at Flinders Street and operates via the City Loop to Richmond, South Yarra, express to Caulfield, express to Oakleigh, express to Clayton, express to Springvale, Sandown Park, Noble Park, express to Dandenong then all stations to Pakenham. \r\n\r\nNOTE: the above is a general guide and some service variations exist. Please consult timetables for detailed information on stopping patterns.\r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN CITY AND DANDENONG APPROXIMATELY EVERY 10 MINUTES MONDAY TO FRIDAY AND WEEKENDS.  EVENING SERVICE OPERATES EVERY 20 TO 30 MINUTES.",
+    "direction_name": "Pakenham",
+    "route_id": 11,
+    "route_type": 0
+  },
+  {
+    "direction_id": 1,
+    "route_direction_description": "Trains will depart Sandringham Station, Hampton Station, Brighton Beach Station, Middle Brighton Station, North Brighton Station, Gardenvale Station, Elsternwick Station, Ripponlea Station, Balaclava Station, Windsor Station, Prahran Station, South Yarra Station, Richmond Station and terminate at Flinders Street Station. On weekends, services travel via the City Loop. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Use of the City Loop depends on the day of the week. Most weekday services operate direct to Flinders Street.  Weekend services operate to Flinders Street via the City Loop.  \r\n\r\nSTOPPING PATTERNS. All trains stop all stations.",
+    "direction_name": "City (Flinders Street)",
+    "route_id": 12,
+    "route_type": 0
+  },
+  {
+    "direction_id": 11,
+    "route_direction_description": "Trains will depart Flinders Street Station, Richmond Station, South Yarra Station, Prahran Station, Windsor Station, Balaclava Station, Ripponlea Station, Elsternwick Station, Gardenvale Station, North Brighton Station, Middle Brighton Station, Brighton Beach Station, Hampton Station and Sandringham Station. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Use of the City Loop depends on the day of the week. Weekend services will have operated via the City Loop before reaching Flinders Street.  \r\n\r\nSTOPPING PATTERNS. All trains stop all stations.",
+    "direction_name": "Sandringham",
+    "route_id": 12,
+    "route_type": 0
+  },
+  {
+    "direction_id": 5,
+    "route_direction_description": "Trains will depart Stony Point Station, Crib Point Station, Morradoo Station, Bittern Station, Hastings Station, Tyabb Station, Somerville Station, Baxter Station, Leawarra Station and terminate at Frankston Station.",
+    "direction_name": "Frankston",
+    "route_id": 13,
+    "route_type": 0
+  },
+  {
+    "direction_id": 12,
+    "route_direction_description": "Trains will depart Frankston Station, Leawarra Station, Baxter Station, Somerville Station, Tyabb Station, Hastings Station, Bittern Station, Morradoo Station, Crib Point Station, terminating at Stony Point Station.",
+    "direction_name": "Stony Point",
+    "route_id": 13,
+    "route_type": 0
+  },
+  {
+    "direction_id": 1,
+    "route_direction_description": "Trains will depart Sunbury Station, Diggers Rest Station, Watergardens Station, Keilor Plains Station, St Albans Station, Ginifer Station, Albion Station, Sunshine Station, Tottenham Station, West Footscray, Middle Footscray Station, Footscray Station, North Melbourne Station, City. CITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). CITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day. Weekday morning and all weekend services operate to Flinders Street via the City Loop. Weekday afternoon services operate to Flinders Street via Southern Cross. STOPPING PATTERNS: Most trains stop all stations except South Kensington. Some weekday peak period services operate express between Sunshine and Footscray.",
+    "direction_name": "City (Flinders Street)",
+    "route_id": 14,
+    "route_type": 0
+  },
+  {
+    "direction_id": 13,
+    "route_direction_description": "Trains will depart City, North Melbourne Station, Footscray Station, Middle Footscray Station, West Footscray, Tottenham Station, Sunshine Station, Albion Station, Ginifer Station, St Albans Station, Keilor Plains Station, Watergardens Station, Diggers Rest Station, Sunbury Station.  CITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). CITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day. Weekday morning and all weekend services commence at Flinders Street and operate via Southern Cross. Weekday afternoon trips commence at Flinders Street and operate via City Loop. STOPPING PATTERNS: Most trains stop all stations except South Kensington. Some weekday peak period services operate express between Footscray and Sunshine.",
+    "direction_name": "Sunbury",
+    "route_id": 14,
+    "route_type": 0
+  },
+  {
+    "direction_id": 1,
+    "route_direction_description": "Trains will depart Upfield Station, Gowrie Station, Fawkner Station, Merlynston Station, Batman Station, Coburg Station, Moreland Station, Anstey Station, Brunswick Station, Jewell Station, Royal Park Station, Flemington Bridge Station, Macaulay Station, North Melbourne Station, City. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day. Weekday morning and all weekend services operate to Flinders Street via the City Loop.  Weekday afternoon services operate to Flinders Street via Southern Cross. \r\n\r\nSTOPPING PATTERNS: All trains stop all stations.",
+    "direction_name": "City (Flinders Street)",
+    "route_id": 15,
+    "route_type": 0
+  },
+  {
+    "direction_id": 14,
+    "route_direction_description": "Trains will depart City, North Melbourne Station, Macaulay Station, Flemington Bridge Station, Royal Park Station, Jewell Station, Brunswick Station, Anstey Station, Moreland Station, Coburg Station, Batman Station, Merlynston Station, Fawkner Station, Gowrie Station, Upfield Station.  \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Direction of travel through the City Loop depends on the day of week and time of day. Weekday morning and all weekend services commence at Flinders Street and operate via Southern Cross.  Weekday afternoon trips commence at Flinders Street and operate via City Loop. \r\n\r\nSTOPPING PATTERNS: All trains stop all stations.",
+    "direction_name": "Upfield",
+    "route_id": 15,
+    "route_type": 0
+  },
+  {
+    "direction_id": 1,
+    "route_direction_description": "Weekday Werribee trains will depart Werribee Station, Hoppers Crossing Station, Williams Landing Station, Aircraft Station, Laverton Station, Newport Station, Spotswood Station, Yarraville Station, Seddon Station, Footscray Station, South Kensington Station, North Melbourne Station, City. Please note during the day trains runs express Newport to Laverton and not via the Altona Loop.\r\n\r\nWeekday Laverton trains will depart Laverton Station, Westona Station, Altona Station, Seaholme Station and Newport Station,  Spotswood Station, Yarraville Station, Seddon Station, Footscray Station, South Kensington Station, North Melbourne Station, City \r\n\r\nOn weekday evenings and weekends a combined Werribee/Altona service will operate.  Trains will depart Werribee Station, Hoppers Crossing Station, Aircraft Station, Laverton Station, Westona Station, Altona Station, Seaholme Station, Newport Station, Spotswood Station, Yarraville Station, Seddon Station, Footscray Station, South Kensington Station, North Melbourne Station, City. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Use of and direction of travel through the City Loop depends on the day of week and time of day.  On weekdays trains will operate direct to Southern Cross Station and Flinders Street Station and not via the City Loop.  These trains extend to Frankston.  Weekend services operate to Flinders Street via the City Loop. \r\n\r\nSTOPPING PATTERNS:   Most trains from Werribee operate express between Newport and Footscray. All Laverton services runs to Flinders Street.\r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN NEWPORT AND CITY APPROXIMATELY EVERY 10 MINUTES MONDAY TO FRIDAY.  EVENING AND WEEKEND SERVICES OPERATE EVERY 20 TO 30 MINUTES.",
+    "direction_name": "City (Flinders Street)",
+    "route_id": 16,
+    "route_type": 0
+  },
+  {
+    "direction_id": 15,
+    "route_direction_description": "Weekday Werribee trains will depart Flinders Street Station, Southern Cross Station, North Melbourne Station, South Kensington Station, Footscray Station, Seddon Station, Yarraville Station, Spotswood Station, Newport Station, Laverton Station, Aircraft Station, Williams Landing Station, Hoppers Crossing Station and terminate at Werribee Station. Please note during the day trains runs express Newport to Laverton and not via the Altona Loop.\r\n\r\nWeekday Laverton trains will depart Flinders Street Station, Southern Cross Station, North Melbourne Station, South Kensington Station, Footscray Station, Seddon Station, Yarraville Station, Spotswood Station, Newport Station, Seaholme Station, Altona Station, Westona Station and terminate at Laverton Station.\r\n\r\nOn weekday evenings and weekends a combined Werribee/Altona service will operate.  Trains will depart City, North Melbourne Station, South Kensington Station, Footscray Station, Seddon Station, Yarraville Station, Spotswood Station, Newport Station, Seaholme Station, Altona Station, Westona Station,  Laverton Station, Aircraft Station, Hoppers Crossing Station and terminate at Werribee Station. \r\n\r\nCITY STATIONS: Flagstaff Station, Melbourne Central Station, Parliament Station, Flinders Street Station and Southern Cross Station (Spencer Street). \r\n\r\nCITY LOOP: Use of and direction of travel through the City Loop depends on the day of week and time of day. Most weekday services operate direct from Flinders Street and Southern Cross (having travelled from Frankston and Richmond).  Weekend services operate direct from Flinders Street and Southern Cross (having travelled via City Loop).  \r\n\r\nSTOPPING PATTERNS:   Most trains stop all stations. Most trains from Werribee operate express between Newport and Footscray. All Laverton services runs from Flinders Street.\r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN CITY AND NEWPORT APPROXIMATELY EVERY 10 MINUTES MONDAY TO FRIDAY.  EVENING AND WEEKEND SERVICES OPERATE EVERY 20 TO 30 MINUTES.",
+    "direction_name": "Werribee",
+    "route_id": 16,
+    "route_type": 0
+  },
+  {
+    "direction_id": 1,
+    "route_direction_description": "Weekday trains will operate via Williamstown Station, Williamstown Beach Station and North Williamstown Station,  Newport Station, Spotswood Station, Yarraville Station, Seddon Station, Footscray Station, South Kensington Station, North Melbourne Station, Southern Cross Station and Flinders Street Station.  Most trains will then continue through to Frankston. \r\n\r\nOn late evenings and weekends trains will operate between Williamstown and Newport only with a connecting train at Newport. Trains then operate to Flinders Street, operating via the City Loop on weekends. \r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN NEWPORT AND CITY APPROXIMATELY EVERY 10 MINUTES MONDAY TO FRIDAY.  EVENING AND WEEKEND SERVICES OPERATE EVERY 20 TO 30 MINUTES.",
+    "direction_name": "City (Flinders Street)",
+    "route_id": 17,
+    "route_type": 0
+  },
+  {
+    "direction_id": 16,
+    "route_direction_description": "Weekday trains will operate via Flinders Street Station, Southern Cross Station, North Melbourne Station, South Kensington Station, Footscray Station, Seddon Station, Yarraville Station, Spotswood Station, Newport Station, North Williamstown Station, Williamstown Beach Station, Williamstown. \r\n\r\nOn late evenings and weekends trains will operate between Newport and Williamstown. Board a Werribee train and change at Newport.   \r\n\r\nFREQUENT SERVICE:  TRAINS OPERATE BETWEEN NEWPORT AND CITY APPROXIMATELY EVERY 10 MINUTES MONDAY TO FRIDAY.  EVENING AND WEEKEND SERVICES OPERATE EVERY 20 TO 30 MINUTES.",
+    "direction_name": "Williamstown",
+    "route_id": 17,
+    "route_type": 0
+  },
+  {
+    "direction_id": 17,
+    "route_direction_description": "Trains will depart Flemington Racecourse Station (special events only), Showgrounds Station (only during the Royal Melbourne Show and other special events), North Melbourne Station, Southern Cross Station and terminates at Flinders Street Station.",
+    "direction_name": "Flinders Street",
+    "route_id": 1482,
+    "route_type": 0
+  },
+  {
+    "direction_id": 18,
+    "route_direction_description": "Trains will depart Flinders Street Station, Southern Cross Station, North Melbourne Station, Showgrounds Station (only during the Royal Melbourne Show and other special events) and terminates at Flemington Racecourse (special events only).",
+    "direction_name": "Showgrounds/Flemington",
+    "route_id": 1482,
+    "route_type": 0
+  }
+]
