@@ -31,7 +31,7 @@ function handleSubmit() {
 </style>
 
 <div class="dropdown">
-    <form on:submit|preventDefault={handleSubmit}>
+    <form onsubmit={handleSubmit}>
         <Select id="stops" {itemId} {label} {items} bind:value={selected}></Select>
         <input type="submit" class=""/>
     </form>
