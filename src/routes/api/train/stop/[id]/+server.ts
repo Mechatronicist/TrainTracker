@@ -23,6 +23,14 @@ export async function GET({ params }) {
     for(const departure of departures) {
         let { platform_number } = departure;
 
+        if(new Date(departure.scheduled_departure_utc) < new Date()) {
+            continue;
+        }
+
+        if(platform_number == null) {
+            continue;
+        }
+
         let platformNumber = Number(platform_number);
         if(platformNumber == null ||
             Number.isNaN(platformNumber)) {
@@ -48,10 +56,15 @@ async function getDepartures(stopId: number): Promise<null | Departure[]> {
     });
 
     if(!result.ok) {
+        console.log(result);
         return null;
     }
 
     let root = (JSON.parse(await result.text()) as DepartureRoot);
 
-    return root.departures;
+    return root.departures.sort((a, b) => {
+        const dateA = new Date(a.scheduled_departure_utc);
+        const dateB = new Date(b.scheduled_departure_utc);
+        return dateA.getTime() - dateB.getTime();
+    });
 }

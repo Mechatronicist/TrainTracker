@@ -5,5 +5,16 @@
     export let data;
 </script>
 
-<Header weather={data.weather}></Header>
-<TimeTable stopId={data.stopId} ></TimeTable>
+<div class="container">
+    <Header weather={data.weather}></Header>
+    <TimeTable stopId={data.stopId} ></TimeTable>
+</div>
+
+<style>
+    .container {
+        display: flex;
+        flex-direction: column;
+
+        gap: 0.5rem;
+    }
+</style>

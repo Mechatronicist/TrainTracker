@@ -25,6 +25,16 @@
         isLoading = false;
     });
 
+    function getDeparture(platformNumber: string, index: number): (Departure | null) {
+        if(!departures) {
+            return null;
+        }
+
+        let departure = departures[platformNumber][index];
+
+        return departure;
+    }
+
     function getDirectionName(route_id: number, direction_id: number): string {
         let route = allroutes.find(r => r.direction_id == direction_id && r.route_id == route_id);
         return route ? route.direction_name : "Unknown";
